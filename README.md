@@ -14,11 +14,11 @@ information.
 This package, fluxtream-local, uses node to create a local server to let you interact with fluxtream.
 
 Key features (as of inception this is a bit hand wavy in terms of what I want :-)
--Allows you to develop fluxtream widgets which will appear on your fluxtream page
--Provides an API for you to expose elements of your computer to fluxtream, or other services. You can 
+<li>Allows you to develop fluxtream widgets which will appear on your fluxtream page
+<li>Provides an API for you to expose elements of your computer to fluxtream, or other services. You can 
 define parts of your file system which you'd like fluxtream-local to track, and then see your file system use 
 integrated into your fluxtream timeline. For example, you could see how many words you are writing per day, or how 
 much code you are writing.
--Features like browser history tracking. (browser state by unique identifers, like laptops versus desktop)
+<li>Features like browser history tracking. (browser state by unique identifers, like laptops versus desktop)
 
--An API to your local system
+<li>An API to your local system, a dashboard for your life.

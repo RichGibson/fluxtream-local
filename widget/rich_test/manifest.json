@@ -1,0 +1,10 @@
+{
+    "WidgetDescription" : {"en" : "Rich test widget"},
+    "WidgetIcon" : "averageSteps.png",
+    "WidgetName" : "rich_test",
+    "WidgetTitle" : {"en" : "Rich Test"},
+    "HasSettings" : false,
+    "SupportedLanguages" : "en",
+    "VendorIdentifier" : "Rich Gibson",
+    "RequiredConnectors":"twitter"
+}

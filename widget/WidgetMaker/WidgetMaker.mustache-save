@@ -1,0 +1,55 @@
+<div class="flx-widget-typo">
+    <section class="main-widget-data">
+
+Create new Fluxtream Widget<p>
+<form class="form-horizontal">
+    <fieldset>
+        <div class="control-group">
+            <label class="control-label" for="input01">Widget Name:</label>
+            <div class="controls">
+                <input type="text" class="input-xlarge" id="WidgetName">
+                <p class="help-block">Name for the Widget.</p>
+            </div>
+
+            <label class="control-label" for="input02">Widget Description:</label>
+            <div class="controls">
+                <input type="text" class="input-xlarge" id="WidgetDescription">
+                <p class="help-block">Widget Description.</p>
+            </div>
+
+            <label class="control-label" for="input03">Widget Title:</label>
+            <div class="controls">
+                <input type="text" class="input-xlarge" id="WidgetTitle">
+                <p class="help-block">Widget Title.</p>
+            </div>
+
+            <label class="control-label" for="input04">Vendor Identifier Title:</label>
+            <div class="controls">
+                <input type="text" class="input-xlarge" id="VendorIdentifier">
+                <p class="help-block">Vendor Identifier Title.</p>
+            </div>
+
+            <label class="control-label" for="input05">RequiredConnectors:</label>
+            <div class="controls">
+                <input type="text" class="input-xlarge" id="RequiredConnectors">
+                <p class="help-block">Required Connectors (can not be blank)</p>
+            </div>
+
+        </div>
+    </fieldset>
+</form>
+
+    WidgetIcon : "averageSteps.png"
+    HasSettings : false
+    SupportedLanguages : "en"
+
+
+    </section>
+</div>
+
+
+
+
+
+
+

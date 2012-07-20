@@ -1,0 +1,10 @@
+{
+    "WidgetDescription" : {"en" : "Empty Skeleton Widget"},
+    "WidgetIcon" : "skeleton.png",
+    "WidgetName" : "skeleton",
+    "WidgetTitle" : {"en" : "Skeleton Widget"},
+    "HasSettings" : true,
+    "SupportedLanguages" : "en",
+    "VendorIdentifier" : "demo vendor",
+    "RequiredConnectors":"twitter"
+}

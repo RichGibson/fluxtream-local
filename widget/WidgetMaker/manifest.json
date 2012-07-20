@@ -1,0 +1,10 @@
+{
+    "WidgetDescription" : {"en" : "Widget Maker"},
+    "WidgetIcon" : "averageSteps.png",
+    "WidgetName" : "WidgetMaker",
+    "WidgetTitle" : {"en" : "Widget Maker"},
+    "HasSettings" : false,
+    "SupportedLanguages" : "en",
+    "VendorIdentifier" : "Rich for Fluxtream",
+    "RequiredConnectors":"twitter"
+}
